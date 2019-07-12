@@ -1,4 +1,4 @@
-/* COMP20005 Assignment 2
+/* MazeRunner
  *
  * Takes a file that shows you a maze, and print the same maze, but with its
  * width increased (STAGE 1), its reachable squares labelled (STAGE 2), the 
@@ -7,8 +7,8 @@
  *
  * PROGRAMMING IS FUN! :D
  *
- * Created by Benjamin Metha, 681260
- * Last edit: May 15 2016
+ * Created by Benjamin Metha for the subject COMP20005 Engineering Computation
+ * Last edit: May 15, 2016
  */
 
 #include <stdio.h>
